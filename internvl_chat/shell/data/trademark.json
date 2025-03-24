@@ -1,0 +1,9 @@
+{
+    "trademark_data": {
+      "root": "/home/bzhou/ws/tm-query/python/dset/imgs",
+      "annotation": "/home/bzhou/ws/tm-query/python/dset/prepared_data.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 200611
+    }
+}
